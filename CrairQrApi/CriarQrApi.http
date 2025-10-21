@@ -1,0 +1,6 @@
+@CriarQrApi_HostAddress = http://localhost:5209
+
+GET {{CriarQrApi_HostAddress}}
+Accept: application/json
+
+###
